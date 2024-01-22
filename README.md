@@ -16,6 +16,8 @@ Iris flowers, with species setosa, versicolor, and virginica, exhibit distinct m
 - Python (Jupyter Notebooks)
 - Scikit-learn, Pandas, NumPy
 
+*Project Link:* http://tinyurl.com/iris-classify
+
 ## ***Task 2: Unemployment Analysis with Python***
 Unemployment analysis involves examining the unemployment rate, especially pertinent during the Covid-19 era. Dive into this project to analyze and visualize the unemployment rate using Python and data science techniques.
 
@@ -30,6 +32,8 @@ Unemployment analysis involves examining the unemployment rate, especially perti
 - Python (Jupyter Notebooks)
 - Pandas, NumPy, Matplotlib
 
+*Project Link:* http://tinyurl.com/unemploy-analyse
+
 ## ***Task 3: Car Price Prediction with Machine Learning***
 Predicting car prices is a significant research area in machine learning. This project guides you through training a model to predict car prices based on various factors such as brand goodwill, features, horsepower, and mileage.
 
@@ -43,6 +47,8 @@ Predicting car prices is a significant research area in machine learning. This p
 
 - Python (Jupyter Notebooks)
 - Scikit-learn, Pandas, NumPy
+
+*Project Link:* http://tinyurl.com/carprice-predict
 
 ## ***Task 4: Email Spam Detection with Machine Learning***
 Tackle the ubiquitous problem of spam emails using Python. Build an email spam detector and leverage machine learning to train the detector to recognize and classify emails into spam and non-spam.
