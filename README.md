@@ -64,6 +64,8 @@ Tackle the ubiquitous problem of spam emails using Python. Build an email spam d
 - Python (Jupyter Notebooks)
 - Scikit-learn, NLTK, Pandas
 
+*Project Link:* http://tinyurl.com/spam-detect
+
 ## ***Task 5: Sales Prediction Using Python***
 Sales prediction is crucial for product and service-based businesses. Learn how to predict future sales using machine learning techniques in Python. Understand the impact of advertising expenditures, target audience segmentation, and advertising platforms on product sales.
 
@@ -77,6 +79,8 @@ Sales prediction is crucial for product and service-based businesses. Learn how 
 
 - Python (Jupyter Notebooks)
 - Scikit-learn, Pandas, NumPy
+
+*Project Link:* http://tinyurl.com/sales-predict
 
 
 ## **Elevating My Skills**
